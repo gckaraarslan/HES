@@ -46,7 +46,7 @@ public static class AddressDatabaseBuilder
          OpenAddress1 = "Acıbadem meydan",
         
          CityId = 2,
-         DistrictId = 3
+         DistrictId = 2
 
      },
      new Address
@@ -55,8 +55,8 @@ public static class AddressDatabaseBuilder
          Name = "Muhammed iş",
          OpenAddress1 = "Acıbadem meydan",
         
-         CityId = 6,
-         DistrictId = 11
+         CityId = 2,
+         DistrictId = 1
 
      },
      new Address
@@ -65,8 +65,8 @@ public static class AddressDatabaseBuilder
          Name = "Oğuz iş",
          OpenAddress1 = "Acıbadem meydan",
         
-         CityId = 4,
-         DistrictId = 8
+         CityId = 3,
+         DistrictId = 3
 
      },
      new Address
@@ -74,8 +74,8 @@ public static class AddressDatabaseBuilder
          Id = 4,
          Name = "Furkan iş",
          OpenAddress1 = "Acıbadem meydan",       
-         CityId = 5,
-         DistrictId = 10
+         CityId = 3,
+         DistrictId = 2
 
      },
       new Address
@@ -83,7 +83,7 @@ public static class AddressDatabaseBuilder
           Id = 5,
           Name = "Cafer iş",
           OpenAddress1 = "Acıbadem meydan ",
-         
+         CityId = 3,
           DistrictId = 1
 
       }
@@ -102,7 +102,7 @@ public static class AddressDatabaseBuilder
               },
               new City
               {
-                  Id = 6,
+                  Id = 3,
                   Name = "Bartın",
               }
 

@@ -11,7 +11,8 @@ public static class ReportDatabaseBuilder
              ID = 1,
              ReporterID = 1,
              TypeOfInfraction = Report.InfractionType.MaskRuleBreak,
-             AddressID = 1
+             AddressID = 1,
+             ProfileID=1
 
 
 
@@ -23,7 +24,8 @@ public static class ReportDatabaseBuilder
              ID = 2,
              ReporterID = 2,
              TypeOfInfraction = Report.InfractionType.SocialDistanceRuleBreak,
-             AddressID = 2
+             AddressID = 2,
+             ProfileID=1
 
 
          }
